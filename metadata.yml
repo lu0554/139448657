@@ -1,0 +1,12 @@
+---
+:id: 139448657
+:submitters:
+- :name: Andrew Lu
+  :email: lu0554@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-08 06:56:51.940235000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-07 23:56:51.940235000 Z
+:status: processed
+:score: 10.0

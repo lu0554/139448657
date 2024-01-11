@@ -1,0 +1,47 @@
+/*
+  Name: Andrew Lu
+  Date:  October 6, 2022
+  Section: CSE 154 AF
+  This is the styles.css page for my portfolio and cross country page.
+*/
+body {
+  background-color: rgb(243, 243, 243);
+  font-family: "Helvetica", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+h1, h2 {
+  color: deepskyblue;
+  font-family: cursive;
+}
+
+section {
+  font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
+}
+
+#running, #musical {
+  color: hotpink;
+}
+
+h1, h2, blockquote {
+  text-align: center;
+}
+
+blockquote > p {
+  color: rgb(108, 108, 246);
+}
+
+img {
+  padding: 10px;
+  width: 400px;
+  height: 300px;
+}
+
+.citation {
+  color: dimgray;
+  font-family: 'Courier New', "Courier", monospace;
+  font-size: small;
+  margin: 20px;
+}
